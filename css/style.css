@@ -1,0 +1,294 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Inter', sans-serif;
+}	
+.container{
+	width: 1280px;
+	margin: 0 auto;
+}
+header{
+	background: #F6F5FB;
+	height: 70px;
+}
+.orange{
+	font-size: 14px;
+	color: orange;
+	text-transform: uppercase;
+	font-weight: bold;
+	width: 145px;
+	display: inline-block;
+}
+ul{
+	list-style-type: none;
+	display: inline-block;
+	margin-left: 240px;
+	padding-bottom: 17px;
+}
+
+.li_1{
+	display: inline-block;
+	font-size: 16px;
+	line-height: 25px;
+	margin-right: 22px;
+	margin-bottom: 17px;
+}
+.country_flags{
+	text-align: right;
+	margin-top: 10px;
+	margin-bottom: 52px;
+}
+.flag{
+	width: 23px;
+	height: 15px;
+	margin-left: 11px;
+}
+.block_1{
+	width: 1280px;
+	margin: 0 auto;
+	text-align: center;
+	height: 600px;
+}
+h1{
+	font-weight: 700;
+	font-size: 46px;
+	line-height: 23px;
+	color: #135b92;
+	text-transform: uppercase;
+}
+button{
+	width: 402px;
+	height: 90px;
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 22px;
+	color: white;
+	background: #9f5799;
+	border-radius: 5px;
+	border: none;
+	margin: 0 auto;
+	display: block;
+}
+.main_paragraph{
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 25px;
+	margin-top: 40px;
+}
+.block_2{
+	height: 510px;
+	width: 1080px;
+	margin: 0 auto;
+}
+.zag_1{
+	text-align: center;
+	font-size: 32px;
+	font-weight: 700;
+	color: #135B92;
+	height: 52px;
+	line-height: 37px;
+	margin-bottom: 18px;
+	margin-top: 53px;
+}
+.par_1{
+	font-size: 18px;
+	text-indent: 30px;
+	font-weight: 400;
+	margin-bottom: 24px;
+	line-height: 22px;
+}
+.block_3{
+	width: 1080px;
+	height: 480px;
+	border-radius: 20px;
+	background: #F6F5FB;
+	margin: 0 auto;
+	padding-left: 25px;
+	margin-top: 56px;
+}
+.zag_2{
+	font-size: 32px;
+	font-weight: 700;
+	line-height: 37px;
+	text-align: center;
+	width: 1063px;
+	height: 33px;
+	padding: 32px 17px 4px 0px;
+	color: #135B92; 
+}	
+.ul_2{
+	width: 1028px;
+	height: 406px;
+	font-size: 18px;
+	margin: 69px 26px 35px 26px;
+}
+li{
+	line-height: 22px;
+	font-size: 18px;
+	list-style-type: disc;
+	margin-top: 25px;	
+}
+.skills{
+	width: 1100px;
+	height: 647px;
+}
+.skills_title{
+	width: 1097px;
+	height: 33px;
+	font-weight: 700;
+	font-size: 32px;
+	line-height: 37px;
+	text-align: center;
+	margin: 55px 83px 40px 100px;
+	color: #135B92;
+}
+.skills_type{
+	width: 397px;
+	height: 33px;
+	font-weight: 600;
+	font-size: 20px;
+	line-height: 45px;
+	text-transform: uppercase;
+	margin: 28px 634px 15px 0px;
+}
+.skills_list{
+	width: 1079px;
+	padding: 28px 13.36px 33px 70px;
+	margin-left: 100px;
+}
+.skills_list_yellow{
+	background: url(../img/yellow_block.png);
+	margin-bottom: 45px;
+}	
+.skills_list_pink{
+	background: url(../img/violet_block.png);
+}
+.one_skill{
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 0px;
+}
+.popular_lang{
+	font-weight: 700;
+	font-size: 32px;
+	line-height: 37px;
+	text-align: center;
+	color: #135B92;
+}
+.lang{
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 25px;
+	text-align: center;
+	margin-top: 24px;
+}
+.vakan{
+	text-align: center;
+	margin: 0px 255px 21px 271px;
+}
+.lang_list{
+	margin: 0px 100px 0px 100px;
+	width: 1080px;
+}
+.one_lang{
+	font-size: 18px;
+	line-height: 25px;
+	list-style-type: none;
+}
+.profession{
+	width: 1080px;
+	height: 515px;
+	margin: 0px 97px 0px 103px;
+	padding-top: 31px;
+}
+.profession_head{
+	font-weight: 700;
+	font-size: 32px;
+	line-height: 37px;
+	text-align: center;
+	color: #135B92;
+	margin-bottom: 35px;
+}
+.pros_cons{
+	margin: 0px 0px 23px 10px;
+}
+.advantages{
+	font-weight: 600;
+	font-size: 20px;
+	line-height: 25px;
+	text-transform: uppercase;
+}
+.plus{
+	line-height: 0px;
+	list-style-type: none;
+}
+.money_devel{
+	font-weight: 700;
+	font-size: 32px;
+	line-height: 37px;
+	text-align: center;
+	color: #135B92;
+	margin: 37px 100px 31px 100px;
+}	
+.lvl_list{
+	width: 1080px;
+	margin: 0px 100px 0px 100px;
+}
+.add_info{ 
+	font-size: 18px;
+	line-height: 25px;
+}
+p{
+	font-size: 18px;
+	line-height: 25px;
+	margin-top: 20px;
+}
+.lvl_prog{
+	list-style-type: none;
+	line-height: 25px;
+}
+.zarplata{
+	margin: 25px 255px 0px 258px;
+}
+.pros_prof{
+	font-weight: 700;
+	font-size: 32px;
+	line-height: 37px;
+	text-align: center;
+	color: #135B92;
+	margin: 57px 101px 0px 99px;
+}
+.perspectiv{
+	margin: 38px 0px 0px 99px;
+
+}
+.perspectives{
+	width: 622px;
+	margin: 41px 101px 74px 27px;
+}
+.perspective{
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 25px;
+	list-style-type: none;
+}
+footer{
+	width: 1280px;
+	height: 80px;
+	background: #E2DCDC;
+	padding-top: 30px;
+	margin-bottom: 25px;
+}
+.copyright{
+	width: 618px;
+	font-weight: 400;
+	font-size: 15px;
+	line-height: 25px;
+	text-align: center;
+	margin: 0 auto;
+}
+a{
+	color: none;
+}
